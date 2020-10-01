@@ -1,2 +1,2 @@
-# CyberSecurity-Study-Group
-study group repository for cyber security beginners/intermediates in DSC UNILAG
+# Cyber Security Study Group
+study group repository for beginners/intermediates in cyber security  in DSC UNILAG
